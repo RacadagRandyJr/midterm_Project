@@ -1,0 +1,1 @@
+This function efficiently counts and returns the number of matching sock pairs by tracking how many times each color appears and identifying every second occurrence as a complete pair.

@@ -1,0 +1,1 @@
+The function checks for cases where one kangaroo is ahead and jumping as fast or faster (making a meeting impossible), then calculates how many jumps it would take for them to meet, and returns "YES" if that number is a non-negative integer—otherwise, it returns "NO".

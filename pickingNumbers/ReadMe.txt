@@ -1,0 +1,1 @@
+The function builds a frequency array to count how often each number appears, then checks each pair of adjacent values to find the largest combined count of two numbers that differ by at most 1, and returns that maximum as the length of the longest valid subarray.

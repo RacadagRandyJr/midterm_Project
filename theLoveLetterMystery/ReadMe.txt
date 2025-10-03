@@ -1,0 +1,1 @@
+This function calculates the minimum number of character changes required to transform a string into a palindrome by comparing characters from both ends and summing the differences in their ASCII values.

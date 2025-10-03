@@ -1,0 +1,1 @@
+The function loops through each character of the input string, compares it to the corresponding character in the repeating "SOS" pattern using modulo indexing, and counts how many characters are incorrect, returning the total number of altered characters.

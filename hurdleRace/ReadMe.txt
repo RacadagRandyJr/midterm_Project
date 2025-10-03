@@ -1,0 +1,1 @@
+The function finds the tallest hurdle in the list, compares it to the character’s natural jump height k, and returns the difference (i.e., the number of doses needed) if the hurdle is taller—otherwise, it returns 0 if no potion is required.

@@ -1,0 +1,1 @@
+The function uses a map to track previously seen prices and their indices, and for each price in the array, it checks if the complement (i.e., m - price) has already been seen—if so, it returns the 1-based indices of the two prices that sum to m.

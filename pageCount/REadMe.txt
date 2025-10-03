@@ -1,0 +1,1 @@
+The function calculates how many page turns are needed from the front and from the back—accounting for whether the last page is even or odd—and returns the smaller of the two values to determine the quickest way to reach page p.

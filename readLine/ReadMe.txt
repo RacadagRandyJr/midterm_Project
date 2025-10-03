@@ -1,0 +1,1 @@
+ The function reads a name and an age from user input using readLine(), converts the age string to a number with parseInt(), and then prints a greeting and an age confirmation message using console.log().

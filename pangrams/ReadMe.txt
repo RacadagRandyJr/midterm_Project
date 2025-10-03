@@ -1,0 +1,1 @@
+The function converts the input string to lowercase, adds each alphabetic character to a set to ensure uniqueness, and returns "pangram" if the set contains all 26 letters—otherwise, it returns "not pangram".

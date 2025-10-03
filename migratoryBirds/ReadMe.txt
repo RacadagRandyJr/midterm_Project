@@ -1,0 +1,1 @@
+The function counts how many times each bird type appears in the array, then finds the type with the highest count—choosing the lowest ID in case of a tie—and returns that bird's ID as the most commonly sighted species.

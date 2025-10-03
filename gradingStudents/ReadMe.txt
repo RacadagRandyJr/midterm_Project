@@ -1,0 +1,1 @@
+ The function checks each grade, and if it's 38 or higher and within 2 points of the next multiple of 5, it rounds the grade up; otherwise, it leaves it unchanged, collecting all final grades into a new array and returning it.
